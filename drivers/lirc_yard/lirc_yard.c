@@ -37,7 +37,7 @@
 #include "hardware.h"
 #include "ir_remote.h"
 #include "lircd.h"
-#include "hw_yard.h"
+#include "lirc_yard.h"
 #include "yarddef.h"
 
 

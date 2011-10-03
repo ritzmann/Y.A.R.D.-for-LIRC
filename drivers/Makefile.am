@@ -20,7 +20,8 @@ DIST_SUBDIRS = \
 	lirc_serial \
 	lirc_sir \
 	lirc_ttusbir \
-	lirc_wpc8769l
+	lirc_wpc8769l \
+	lirc_yard
 
 SUBDIRS = @lirc_driver@
 
